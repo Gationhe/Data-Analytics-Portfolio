@@ -1,0 +1,177 @@
+---
+title: "Book Reviews"
+author: "Kayon"
+output: html_document
+---
+
+# 載入模組以及資料集
+
+```{r, results = "hide"}
+# install and use packages
+# install.packages("tidyverse") # prevent error
+library(tidyverse)
+```
+
+```{r, results = "hide"}
+# load the data set
+data <- read_csv("C:/Users/kayon/Documents/R/Book Reviews Analysis/book_reviews.csv")
+```
+
+```{r}
+# find the info. of the data set
+str(data)
+head(data)
+summary(data)
+```
+
+# 資料清理
+
+首先，先觀察哪裡有空值，並觀察如果移除空值對資料集的影響大小，如果資料集樣本夠大或影響比例不大，就移除空值。
+
+```{r}
+is.na(data) # check if the entry is NULL
+colSums(is.na(data)) # calculate the number of NULL in each column
+data <- data %>% drop_na() # about 10% observations would be dropped
+```
+
+處理完空值，我會觀察是否有格式不一的情況。在此資料集，各欄的格式皆統一，於是我繼續執行下一步。
+
+通常在這一步，我會觀察資料集中是否有異常值。在此資料集中，我發現state欄同時出現州名的縮寫和全稱，為了之後分析方便，於是我把州名都轉成全稱表示。
+
+```{r}
+data <- data %>% mutate(state = case_when(
+  state == "AL" ~ "Alabama",
+  state == "AK" ~ "Alaska",
+  state == "AZ" ~ "Arizona",
+  state == "AR" ~ "Arkansas",
+  state == "CA" ~ "California",
+  state == "CO" ~ "Colorado",
+  state == "CT" ~ "Connecticut",
+  state == "DE" ~ "Delaware",
+  state == "DC" ~ "District of Columbia",
+  state == "FL" ~ "Florida",
+  state == "GA" ~ "Georgia",
+  state == "HI" ~ "Hawaii",
+  state == "ID" ~ "Idaho",
+  state == "IL" ~ "Illinois",
+  state == "IN" ~ "Indiana",
+  state == "IA" ~ "Iowa",
+  state == "KS" ~ "Kansas",
+  state == "KY" ~ "Kentucky",
+  state == "LA" ~ "Louisiana",
+  state == "ME" ~ "Maine",
+  state == "MD" ~ "Maryland",
+  state == "MA" ~ "Massachusetts",
+  state == "MI" ~ "Michigan",
+  state == "MN" ~ "Minnesota",
+  state == "MS" ~ "Mississippi",
+  state == "MO" ~ "Missouri",
+  state == "MT" ~ "Montana",
+  state == "NE" ~ "Nebraska",
+  state == "NV" ~ "Nevada",
+  state == "NH" ~ "New Hampshire",
+  state == "NJ" ~ "New Jersey",
+  state == "NM" ~ "New Mexico",
+  state == "NY" ~ "New York",
+  state == "NC" ~ "North Carolina",
+  state == "ND" ~ "North Dakota",
+  state == "OH" ~ "Ohio",
+  state == "OK" ~ "Oklahoma",
+  state == "OR" ~ "Oregon",
+  state == "PA" ~ "Pennsylvania",
+  state == "RI" ~ "Rhode Island",
+  state == "SC" ~ "South Carolina",
+  state == "SD" ~ "South Dakota",
+  state == "TN" ~ "Tennessee",
+  state == "TX" ~ "Texas",
+  state == "UT" ~ "Utah",
+  state == "VT" ~ "Vermont",
+  state == "VA" ~ "Virginia",
+  state == "WA" ~ "Washington",
+  state == "WV" ~ "West Virginia",
+  state == "WI" ~ "Wisconsin",
+  state == "WY" ~ "Wyoming",
+  TRUE ~ state
+))
+```
+
+處理州名過後，我發現review欄看起來只有幾種結果，於是用函式確認。確實review只有5種結果，於是我用這些結果生成一個新的數值欄位，並將原始的review欄位移除，方便之後分析。
+
+```{r}
+unique(data$review) # observe if we can turn the words into numeric values
+
+data <- data %>% mutate(score = case_when(
+  review == "Poor" ~ 1,
+  review == "Fair" ~ 2,
+  review == "Good" ~ 3,
+  review == "Great" ~ 4,
+  review == "Excellent" ~ 5,
+  TRUE ~ 2
+))
+
+data <- data %>% select(-review) # remove the useless column
+```
+
+在最後這一步，我通常會確認是否有重複的評論，但是我觀察此資料集過後，想到同一本書，在一個地區賣相同的價格，很多人買但評論只有五個選項的情況之下，會有很多看起來一樣的結果，但事實上是不同人給出的評論。所以在這一步我就沒有執行移除重複列的動作。
+
+```{r}
+# data <- unique(data) # remove the completely duplicate rows
+```
+
+最後資料清理得差不多之後，再用一些函式查看資料集的基本結構：
+
+```{r}
+# find the info. of the modified data set
+str(data)
+head(data)
+summary(data)
+```
+
+```{r}
+# output the modified data set
+write_csv(data, "book_reviews_cleaning.csv")
+```
+
+以上為此資料集的資料清理過程。
+
+# 分析資料
+
+## 分析一
+
+```{r}
+unique(data$book) 
+data_1 <- data %>% group_by(book) %>% summarise(avg_price = mean(price), count = n(), total = avg_price * count, avg_score = mean(score))
+data_1
+
+# visualize the analytic result
+ggplot(data_1, aes(x = book, y = total, fill = book)) + 
+  geom_col(width = 0.7) +
+  labs(title = "不同書籍的銷售總額", x = "書籍名稱", y = "銷售總額") +
+  theme(
+    axis.text.x = element_text(angle = 30, hjust = 1) # tilt x-axis labels
+  )
+```
+
+藉由程式計算，資料集共有五本與R相關書籍的銷售數據，將無評論的數據剔除，結果顯示5本書的銷售量都界在352到366本，所以銷售總額的好壞，就變成幾乎由單價所影響。結果顯示，銷售總額排名為Secrets Of R For Advanced Students, Fundamentals of R For Beginners, Top 10 Mistakes R Beginners Make, R Made Easy, R For Dummies，藉由觀察，除了第一名的客群偏向進階讀者，其他四本書由標題推斷目標客群偏向入門讀者。也就代表說，入門讀者的數量比進階讀者的數量多，並且進階讀者願意用更高的價格購買書籍。
+
+## 分析二
+
+```{r}
+data_2 <- data %>% group_by(state, book) %>% summarise(price = mean(price), count = n(), total = price * count, avg_score = mean(score))
+data_2
+summary(data_2)
+
+# visualize the analytic result
+ggplot(data_2, aes(x = state, y = total, fill = book)) +
+  geom_col() +
+  coord_polar("y") +  # turn into the pie chart
+  labs(title = "各州銷售數據")
+```
+
+藉由觀察，我們可以得知：  
+銷售總額：紐約 > 加州 > 德州 > 佛羅里達，以及各州最熱銷(書本數量/銷售總額)的書分別是：  
+紐約：Secrets Of R For Advanced Students/Secrets Of R For Advanced Students  
+加州：R For Dummies/Secrets Of R For Advanced Students  
+德州：Fundamentals of R For Beginners/Secrets Of R For Advanced Students  
+佛羅里達：Secrets Of R For Advanced Students/Secrets Of R For Advanced Students  
+

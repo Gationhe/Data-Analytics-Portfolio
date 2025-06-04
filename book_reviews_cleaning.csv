@@ -1,0 +1,1795 @@
+book,state,price,score
+R Made Easy,Texas,19.99,5
+R For Dummies,New York,15.99,2
+R Made Easy,New York,19.99,5
+R Made Easy,Florida,19.99,1
+Secrets Of R For Advanced Students,Texas,50,4
+R Made Easy,Florida,19.99,4
+R Made Easy,California,19.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,2
+Secrets Of R For Advanced Students,Texas,50,2
+R Made Easy,New York,19.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,California,50,5
+R For Dummies,Florida,15.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+R For Dummies,California,15.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+R For Dummies,California,15.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R Made Easy,California,19.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+R For Dummies,California,15.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R Made Easy,New York,19.99,1
+Secrets Of R For Advanced Students,Florida,50,1
+Secrets Of R For Advanced Students,New York,50,1
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+R For Dummies,Texas,15.99,4
+R For Dummies,California,15.99,3
+R Made Easy,California,19.99,2
+Fundamentals of R For Beginners,New York,39.99,4
+R For Dummies,New York,15.99,3
+R Made Easy,Florida,19.99,3
+R For Dummies,New York,15.99,3
+R For Dummies,Texas,15.99,4
+Secrets Of R For Advanced Students,Texas,50,2
+Fundamentals of R For Beginners,New York,39.99,2
+Secrets Of R For Advanced Students,Texas,50,4
+R For Dummies,Texas,15.99,4
+R Made Easy,Florida,19.99,4
+Secrets Of R For Advanced Students,California,50,3
+R Made Easy,Texas,19.99,5
+Fundamentals of R For Beginners,Florida,39.99,4
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R For Dummies,Texas,15.99,5
+R For Dummies,Florida,15.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Secrets Of R For Advanced Students,New York,50,3
+Fundamentals of R For Beginners,California,39.99,5
+R Made Easy,California,19.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Fundamentals of R For Beginners,Texas,39.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R Made Easy,California,19.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+R Made Easy,California,19.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Fundamentals of R For Beginners,Florida,39.99,2
+R For Dummies,New York,15.99,2
+R For Dummies,New York,15.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+R For Dummies,California,15.99,4
+Secrets Of R For Advanced Students,California,50,3
+Fundamentals of R For Beginners,Florida,39.99,3
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Secrets Of R For Advanced Students,Florida,50,2
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Fundamentals of R For Beginners,Texas,39.99,2
+Fundamentals of R For Beginners,Texas,39.99,2
+Fundamentals of R For Beginners,California,39.99,4
+R For Dummies,California,15.99,3
+R For Dummies,New York,15.99,1
+Fundamentals of R For Beginners,New York,39.99,5
+Fundamentals of R For Beginners,New York,39.99,3
+R Made Easy,Florida,19.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,2
+R Made Easy,California,19.99,1
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Secrets Of R For Advanced Students,Texas,50,5
+R Made Easy,Texas,19.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,1
+R Made Easy,New York,19.99,5
+R For Dummies,California,15.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Fundamentals of R For Beginners,Florida,39.99,5
+Fundamentals of R For Beginners,California,39.99,4
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Fundamentals of R For Beginners,Texas,39.99,4
+R For Dummies,California,15.99,5
+R For Dummies,New York,15.99,3
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+R For Dummies,California,15.99,4
+Secrets Of R For Advanced Students,New York,50,3
+Secrets Of R For Advanced Students,Florida,50,1
+R Made Easy,California,19.99,1
+Secrets Of R For Advanced Students,Texas,50,2
+Fundamentals of R For Beginners,California,39.99,4
+Fundamentals of R For Beginners,California,39.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,California,39.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+R Made Easy,New York,19.99,1
+R Made Easy,Texas,19.99,1
+Fundamentals of R For Beginners,California,39.99,1
+R Made Easy,California,19.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,2
+Secrets Of R For Advanced Students,New York,50,5
+Fundamentals of R For Beginners,California,39.99,4
+R Made Easy,Florida,19.99,2
+R For Dummies,Florida,15.99,3
+Secrets Of R For Advanced Students,California,50,1
+Top 10 Mistakes R Beginners Make,California,29.99,4
+R Made Easy,California,19.99,1
+Secrets Of R For Advanced Students,New York,50,2
+R Made Easy,New York,19.99,3
+Fundamentals of R For Beginners,California,39.99,4
+Fundamentals of R For Beginners,Texas,39.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+R For Dummies,Florida,15.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+R Made Easy,Texas,19.99,3
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,Florida,50,4
+Secrets Of R For Advanced Students,Florida,50,3
+R Made Easy,California,19.99,4
+Secrets Of R For Advanced Students,California,50,4
+R For Dummies,California,15.99,2
+Secrets Of R For Advanced Students,New York,50,5
+R For Dummies,Texas,15.99,1
+Fundamentals of R For Beginners,Texas,39.99,4
+R For Dummies,Florida,15.99,3
+R For Dummies,California,15.99,1
+Fundamentals of R For Beginners,Texas,39.99,5
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,Florida,15.99,5
+Secrets Of R For Advanced Students,California,50,4
+R Made Easy,New York,19.99,4
+R For Dummies,California,15.99,2
+R For Dummies,Texas,15.99,4
+Fundamentals of R For Beginners,New York,39.99,1
+R Made Easy,California,19.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,California,50,5
+R For Dummies,Texas,15.99,2
+Fundamentals of R For Beginners,Florida,39.99,1
+Secrets Of R For Advanced Students,Texas,50,1
+Secrets Of R For Advanced Students,New York,50,3
+Secrets Of R For Advanced Students,Florida,50,5
+R For Dummies,California,15.99,2
+R Made Easy,New York,19.99,4
+Fundamentals of R For Beginners,New York,39.99,4
+Fundamentals of R For Beginners,Texas,39.99,2
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Secrets Of R For Advanced Students,California,50,2
+R For Dummies,California,15.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,1
+R For Dummies,Texas,15.99,5
+R For Dummies,California,15.99,3
+R For Dummies,Texas,15.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+R Made Easy,Texas,19.99,4
+R For Dummies,Texas,15.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Secrets Of R For Advanced Students,Texas,50,5
+Secrets Of R For Advanced Students,Florida,50,4
+Secrets Of R For Advanced Students,Florida,50,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Secrets Of R For Advanced Students,California,50,3
+R For Dummies,California,15.99,1
+R Made Easy,California,19.99,3
+Secrets Of R For Advanced Students,Florida,50,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Secrets Of R For Advanced Students,New York,50,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R Made Easy,Texas,19.99,2
+R For Dummies,California,15.99,5
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+R For Dummies,California,15.99,2
+R For Dummies,New York,15.99,3
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,New York,15.99,4
+Fundamentals of R For Beginners,California,39.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Fundamentals of R For Beginners,California,39.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Secrets Of R For Advanced Students,Texas,50,4
+R Made Easy,Texas,19.99,5
+Fundamentals of R For Beginners,Florida,39.99,1
+R For Dummies,Texas,15.99,1
+Fundamentals of R For Beginners,New York,39.99,5
+R Made Easy,California,19.99,4
+Secrets Of R For Advanced Students,New York,50,4
+Secrets Of R For Advanced Students,California,50,3
+Secrets Of R For Advanced Students,New York,50,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R Made Easy,New York,19.99,5
+R For Dummies,New York,15.99,5
+R Made Easy,Florida,19.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,4
+R Made Easy,Florida,19.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Fundamentals of R For Beginners,California,39.99,5
+R For Dummies,Texas,15.99,3
+R Made Easy,California,19.99,5
+R Made Easy,Florida,19.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Fundamentals of R For Beginners,Florida,39.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R For Dummies,Texas,15.99,2
+Fundamentals of R For Beginners,California,39.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R For Dummies,Florida,15.99,4
+R For Dummies,New York,15.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Secrets Of R For Advanced Students,California,50,3
+R For Dummies,Texas,15.99,1
+R Made Easy,California,19.99,3
+Fundamentals of R For Beginners,Florida,39.99,4
+Secrets Of R For Advanced Students,California,50,3
+Fundamentals of R For Beginners,Texas,39.99,2
+R Made Easy,Texas,19.99,1
+Secrets Of R For Advanced Students,Texas,50,5
+R For Dummies,California,15.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R Made Easy,California,19.99,2
+Fundamentals of R For Beginners,New York,39.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,California,39.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Secrets Of R For Advanced Students,New York,50,3
+Top 10 Mistakes R Beginners Make,California,29.99,4
+R Made Easy,California,19.99,4
+Secrets Of R For Advanced Students,California,50,1
+R Made Easy,Florida,19.99,2
+R For Dummies,Florida,15.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,New York,50,5
+R For Dummies,Florida,15.99,5
+R For Dummies,Florida,15.99,3
+Secrets Of R For Advanced Students,Texas,50,2
+R Made Easy,California,19.99,2
+R Made Easy,California,19.99,5
+R Made Easy,Texas,19.99,4
+Secrets Of R For Advanced Students,Texas,50,1
+R For Dummies,Florida,15.99,3
+Secrets Of R For Advanced Students,Texas,50,3
+R For Dummies,New York,15.99,1
+R Made Easy,New York,19.99,4
+Fundamentals of R For Beginners,Texas,39.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R Made Easy,California,19.99,1
+R For Dummies,California,15.99,3
+R For Dummies,California,15.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R Made Easy,California,19.99,2
+R For Dummies,New York,15.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Fundamentals of R For Beginners,California,39.99,4
+R Made Easy,California,19.99,3
+Secrets Of R For Advanced Students,Florida,50,1
+Fundamentals of R For Beginners,New York,39.99,5
+Fundamentals of R For Beginners,California,39.99,5
+Fundamentals of R For Beginners,California,39.99,5
+Secrets Of R For Advanced Students,New York,50,5
+Secrets Of R For Advanced Students,Florida,50,5
+R Made Easy,New York,19.99,5
+R Made Easy,Florida,19.99,1
+Fundamentals of R For Beginners,New York,39.99,3
+Fundamentals of R For Beginners,California,39.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Secrets Of R For Advanced Students,California,50,1
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R For Dummies,California,15.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,Florida,15.99,5
+R For Dummies,California,15.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Secrets Of R For Advanced Students,New York,50,1
+R For Dummies,New York,15.99,1
+Fundamentals of R For Beginners,Florida,39.99,1
+R For Dummies,Florida,15.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Fundamentals of R For Beginners,Texas,39.99,4
+Fundamentals of R For Beginners,Florida,39.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,Texas,50,4
+Fundamentals of R For Beginners,Florida,39.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R Made Easy,New York,19.99,3
+R Made Easy,Texas,19.99,2
+Secrets Of R For Advanced Students,Texas,50,5
+R For Dummies,New York,15.99,4
+R For Dummies,Texas,15.99,5
+Secrets Of R For Advanced Students,New York,50,5
+R Made Easy,New York,19.99,4
+R For Dummies,Florida,15.99,5
+R Made Easy,Texas,19.99,2
+R Made Easy,Florida,19.99,4
+R Made Easy,Florida,19.99,1
+R Made Easy,Texas,19.99,1
+Secrets Of R For Advanced Students,Texas,50,1
+Secrets Of R For Advanced Students,Florida,50,1
+R For Dummies,California,15.99,4
+Fundamentals of R For Beginners,New York,39.99,3
+Fundamentals of R For Beginners,New York,39.99,4
+Secrets Of R For Advanced Students,New York,50,1
+R For Dummies,California,15.99,4
+R Made Easy,California,19.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Secrets Of R For Advanced Students,Texas,50,5
+Secrets Of R For Advanced Students,New York,50,1
+R For Dummies,Florida,15.99,1
+Fundamentals of R For Beginners,New York,39.99,1
+R For Dummies,California,15.99,4
+R Made Easy,California,19.99,5
+Secrets Of R For Advanced Students,Florida,50,2
+Secrets Of R For Advanced Students,Florida,50,4
+Secrets Of R For Advanced Students,Florida,50,3
+Fundamentals of R For Beginners,Texas,39.99,4
+R Made Easy,New York,19.99,4
+Fundamentals of R For Beginners,New York,39.99,3
+Fundamentals of R For Beginners,Texas,39.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Secrets Of R For Advanced Students,California,50,4
+R Made Easy,New York,19.99,4
+R For Dummies,California,15.99,2
+R For Dummies,California,15.99,2
+R For Dummies,Texas,15.99,5
+R For Dummies,Texas,15.99,2
+Fundamentals of R For Beginners,Texas,39.99,4
+R Made Easy,Texas,19.99,1
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Secrets Of R For Advanced Students,California,50,1
+R Made Easy,New York,19.99,4
+R For Dummies,Texas,15.99,5
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,California,39.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,2
+R For Dummies,Florida,15.99,3
+Secrets Of R For Advanced Students,New York,50,1
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Secrets Of R For Advanced Students,California,50,5
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Fundamentals of R For Beginners,Florida,39.99,2
+Secrets Of R For Advanced Students,Florida,50,5
+Secrets Of R For Advanced Students,Florida,50,2
+R Made Easy,New York,19.99,5
+R Made Easy,California,19.99,1
+R Made Easy,Florida,19.99,3
+R Made Easy,New York,19.99,4
+R For Dummies,Texas,15.99,1
+Secrets Of R For Advanced Students,California,50,5
+R Made Easy,New York,19.99,3
+Secrets Of R For Advanced Students,New York,50,3
+R Made Easy,New York,19.99,3
+R For Dummies,California,15.99,3
+Secrets Of R For Advanced Students,Texas,50,2
+Fundamentals of R For Beginners,California,39.99,3
+R For Dummies,New York,15.99,4
+Secrets Of R For Advanced Students,Florida,50,4
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R For Dummies,Florida,15.99,5
+R For Dummies,Texas,15.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Fundamentals of R For Beginners,Texas,39.99,2
+R For Dummies,Texas,15.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R For Dummies,California,15.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,3
+Fundamentals of R For Beginners,California,39.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Secrets Of R For Advanced Students,California,50,3
+R Made Easy,New York,19.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R Made Easy,Texas,19.99,1
+Fundamentals of R For Beginners,Texas,39.99,2
+R Made Easy,New York,19.99,2
+R For Dummies,California,15.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+R Made Easy,Texas,19.99,4
+R For Dummies,New York,15.99,2
+Secrets Of R For Advanced Students,Florida,50,3
+Secrets Of R For Advanced Students,New York,50,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,Florida,50,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Fundamentals of R For Beginners,New York,39.99,1
+Fundamentals of R For Beginners,Florida,39.99,3
+R For Dummies,Texas,15.99,3
+Fundamentals of R For Beginners,California,39.99,2
+R For Dummies,California,15.99,5
+Fundamentals of R For Beginners,New York,39.99,2
+Fundamentals of R For Beginners,Texas,39.99,1
+Fundamentals of R For Beginners,Florida,39.99,5
+R Made Easy,Texas,19.99,2
+R For Dummies,New York,15.99,5
+R Made Easy,New York,19.99,1
+R Made Easy,California,19.99,2
+Fundamentals of R For Beginners,Florida,39.99,3
+Fundamentals of R For Beginners,California,39.99,2
+R For Dummies,California,15.99,4
+R For Dummies,New York,15.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Fundamentals of R For Beginners,New York,39.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Fundamentals of R For Beginners,California,39.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R For Dummies,Texas,15.99,5
+Secrets Of R For Advanced Students,New York,50,1
+Secrets Of R For Advanced Students,Florida,50,1
+Fundamentals of R For Beginners,Florida,39.99,2
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,California,50,4
+R For Dummies,Texas,15.99,3
+R Made Easy,New York,19.99,3
+R Made Easy,New York,19.99,1
+Fundamentals of R For Beginners,Texas,39.99,2
+Fundamentals of R For Beginners,New York,39.99,1
+R For Dummies,Florida,15.99,5
+Fundamentals of R For Beginners,Florida,39.99,4
+Fundamentals of R For Beginners,California,39.99,3
+Secrets Of R For Advanced Students,Texas,50,1
+R Made Easy,California,19.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R Made Easy,California,19.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Secrets Of R For Advanced Students,Florida,50,4
+R For Dummies,Florida,15.99,2
+Secrets Of R For Advanced Students,California,50,1
+R Made Easy,Texas,19.99,2
+Secrets Of R For Advanced Students,New York,50,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R Made Easy,Florida,19.99,4
+R For Dummies,Texas,15.99,2
+R For Dummies,Texas,15.99,1
+R Made Easy,California,19.99,5
+Fundamentals of R For Beginners,Florida,39.99,3
+Fundamentals of R For Beginners,Texas,39.99,4
+R For Dummies,Florida,15.99,3
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R For Dummies,California,15.99,2
+Secrets Of R For Advanced Students,New York,50,1
+Secrets Of R For Advanced Students,California,50,3
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Secrets Of R For Advanced Students,New York,50,1
+R For Dummies,Florida,15.99,1
+Secrets Of R For Advanced Students,Texas,50,2
+Fundamentals of R For Beginners,Florida,39.99,2
+R Made Easy,Texas,19.99,2
+Fundamentals of R For Beginners,California,39.99,5
+Fundamentals of R For Beginners,Texas,39.99,1
+R For Dummies,New York,15.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Fundamentals of R For Beginners,New York,39.99,3
+Secrets Of R For Advanced Students,Texas,50,4
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R Made Easy,Texas,19.99,5
+R For Dummies,Florida,15.99,5
+Secrets Of R For Advanced Students,Florida,50,5
+Fundamentals of R For Beginners,New York,39.99,1
+R For Dummies,Texas,15.99,2
+R Made Easy,Florida,19.99,2
+R Made Easy,Texas,19.99,2
+Fundamentals of R For Beginners,Florida,39.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Fundamentals of R For Beginners,Florida,39.99,4
+Fundamentals of R For Beginners,Florida,39.99,4
+R Made Easy,Florida,19.99,3
+R For Dummies,Florida,15.99,1
+R Made Easy,Texas,19.99,2
+R Made Easy,Florida,19.99,2
+R For Dummies,California,15.99,2
+Fundamentals of R For Beginners,New York,39.99,2
+Fundamentals of R For Beginners,New York,39.99,3
+Secrets Of R For Advanced Students,California,50,3
+Secrets Of R For Advanced Students,Texas,50,2
+R For Dummies,California,15.99,1
+Fundamentals of R For Beginners,Florida,39.99,4
+Secrets Of R For Advanced Students,Texas,50,1
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+R For Dummies,Texas,15.99,2
+Fundamentals of R For Beginners,New York,39.99,1
+R Made Easy,California,19.99,3
+Fundamentals of R For Beginners,Texas,39.99,4
+Fundamentals of R For Beginners,New York,39.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Fundamentals of R For Beginners,Texas,39.99,4
+Fundamentals of R For Beginners,Florida,39.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+R Made Easy,Texas,19.99,3
+Secrets Of R For Advanced Students,California,50,5
+Fundamentals of R For Beginners,New York,39.99,4
+Fundamentals of R For Beginners,California,39.99,2
+Fundamentals of R For Beginners,California,39.99,2
+R For Dummies,New York,15.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R Made Easy,New York,19.99,1
+Fundamentals of R For Beginners,California,39.99,3
+R Made Easy,Texas,19.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Fundamentals of R For Beginners,Florida,39.99,2
+R Made Easy,California,19.99,1
+Secrets Of R For Advanced Students,Florida,50,3
+Fundamentals of R For Beginners,California,39.99,2
+Secrets Of R For Advanced Students,New York,50,3
+Secrets Of R For Advanced Students,California,50,5
+R Made Easy,New York,19.99,1
+R For Dummies,California,15.99,2
+Secrets Of R For Advanced Students,Texas,50,4
+R For Dummies,Florida,15.99,1
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+R For Dummies,Florida,15.99,3
+R For Dummies,Florida,15.99,4
+Fundamentals of R For Beginners,Florida,39.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Secrets Of R For Advanced Students,Texas,50,1
+Fundamentals of R For Beginners,California,39.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+R Made Easy,Texas,19.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R Made Easy,Florida,19.99,2
+R Made Easy,California,19.99,2
+Secrets Of R For Advanced Students,New York,50,4
+Secrets Of R For Advanced Students,New York,50,5
+R For Dummies,Florida,15.99,4
+Secrets Of R For Advanced Students,New York,50,3
+Secrets Of R For Advanced Students,Texas,50,3
+R For Dummies,Texas,15.99,1
+R For Dummies,New York,15.99,5
+R Made Easy,New York,19.99,1
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Fundamentals of R For Beginners,New York,39.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Secrets Of R For Advanced Students,California,50,4
+Fundamentals of R For Beginners,New York,39.99,4
+R For Dummies,Texas,15.99,2
+Fundamentals of R For Beginners,New York,39.99,3
+R Made Easy,Florida,19.99,5
+Fundamentals of R For Beginners,New York,39.99,4
+Fundamentals of R For Beginners,Texas,39.99,2
+Fundamentals of R For Beginners,Texas,39.99,5
+R Made Easy,Florida,19.99,5
+R Made Easy,Florida,19.99,4
+R Made Easy,California,19.99,5
+R For Dummies,California,15.99,2
+Fundamentals of R For Beginners,Texas,39.99,5
+Secrets Of R For Advanced Students,California,50,1
+R For Dummies,Florida,15.99,4
+R Made Easy,Florida,19.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R For Dummies,New York,15.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,New York,39.99,5
+Secrets Of R For Advanced Students,California,50,1
+Fundamentals of R For Beginners,New York,39.99,3
+Secrets Of R For Advanced Students,Florida,50,1
+R For Dummies,California,15.99,5
+R Made Easy,New York,19.99,4
+R For Dummies,California,15.99,2
+R For Dummies,Texas,15.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R Made Easy,California,19.99,1
+Secrets Of R For Advanced Students,Texas,50,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Secrets Of R For Advanced Students,Florida,50,2
+R For Dummies,California,15.99,1
+Fundamentals of R For Beginners,New York,39.99,3
+R For Dummies,Florida,15.99,4
+Fundamentals of R For Beginners,Florida,39.99,1
+R For Dummies,California,15.99,5
+R For Dummies,Florida,15.99,4
+R For Dummies,California,15.99,4
+R Made Easy,New York,19.99,2
+Secrets Of R For Advanced Students,California,50,4
+R Made Easy,Florida,19.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+R For Dummies,New York,15.99,5
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,California,39.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,Texas,19.99,4
+Fundamentals of R For Beginners,Florida,39.99,3
+R Made Easy,Florida,19.99,4
+R For Dummies,California,15.99,1
+R Made Easy,Florida,19.99,5
+Fundamentals of R For Beginners,Florida,39.99,4
+Secrets Of R For Advanced Students,Texas,50,5
+R Made Easy,California,19.99,2
+Secrets Of R For Advanced Students,New York,50,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Fundamentals of R For Beginners,Florida,39.99,3
+Fundamentals of R For Beginners,Texas,39.99,2
+Fundamentals of R For Beginners,California,39.99,3
+R Made Easy,New York,19.99,4
+Secrets Of R For Advanced Students,New York,50,3
+Fundamentals of R For Beginners,Texas,39.99,5
+R For Dummies,California,15.99,2
+R For Dummies,New York,15.99,3
+Secrets Of R For Advanced Students,California,50,5
+Secrets Of R For Advanced Students,Texas,50,2
+Secrets Of R For Advanced Students,New York,50,1
+Fundamentals of R For Beginners,Florida,39.99,2
+Secrets Of R For Advanced Students,California,50,1
+R Made Easy,New York,19.99,2
+R Made Easy,New York,19.99,5
+R Made Easy,New York,19.99,1
+R For Dummies,California,15.99,2
+R Made Easy,Texas,19.99,5
+Secrets Of R For Advanced Students,New York,50,2
+Secrets Of R For Advanced Students,Texas,50,4
+R Made Easy,Florida,19.99,4
+R For Dummies,New York,15.99,3
+R Made Easy,California,19.99,3
+R Made Easy,Florida,19.99,3
+R For Dummies,New York,15.99,1
+R For Dummies,California,15.99,4
+Fundamentals of R For Beginners,California,39.99,1
+R For Dummies,Florida,15.99,3
+R Made Easy,Florida,19.99,2
+Secrets Of R For Advanced Students,New York,50,3
+Fundamentals of R For Beginners,New York,39.99,5
+Fundamentals of R For Beginners,New York,39.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Secrets Of R For Advanced Students,Florida,50,2
+R Made Easy,New York,19.99,4
+Fundamentals of R For Beginners,Texas,39.99,3
+Secrets Of R For Advanced Students,California,50,1
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+R For Dummies,California,15.99,2
+R Made Easy,Texas,19.99,4
+Fundamentals of R For Beginners,Texas,39.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Fundamentals of R For Beginners,California,39.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R For Dummies,California,15.99,1
+R Made Easy,Florida,19.99,1
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R Made Easy,Florida,19.99,4
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,New York,39.99,2
+Secrets Of R For Advanced Students,Texas,50,2
+Fundamentals of R For Beginners,New York,39.99,2
+R Made Easy,Florida,19.99,1
+Secrets Of R For Advanced Students,New York,50,1
+Secrets Of R For Advanced Students,Florida,50,4
+R Made Easy,Florida,19.99,2
+R Made Easy,California,19.99,5
+Fundamentals of R For Beginners,Texas,39.99,5
+Secrets Of R For Advanced Students,California,50,5
+R Made Easy,New York,19.99,1
+R For Dummies,Texas,15.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Secrets Of R For Advanced Students,California,50,3
+Fundamentals of R For Beginners,California,39.99,1
+Secrets Of R For Advanced Students,Texas,50,4
+Fundamentals of R For Beginners,California,39.99,1
+Fundamentals of R For Beginners,California,39.99,5
+R For Dummies,Florida,15.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Secrets Of R For Advanced Students,New York,50,5
+R Made Easy,Texas,19.99,5
+Fundamentals of R For Beginners,Texas,39.99,5
+R For Dummies,New York,15.99,5
+R For Dummies,Texas,15.99,1
+Secrets Of R For Advanced Students,New York,50,3
+R Made Easy,California,19.99,3
+R Made Easy,Texas,19.99,5
+R Made Easy,California,19.99,1
+R Made Easy,Texas,19.99,1
+Fundamentals of R For Beginners,California,39.99,4
+Fundamentals of R For Beginners,California,39.99,1
+R For Dummies,New York,15.99,1
+R For Dummies,Texas,15.99,5
+R For Dummies,Florida,15.99,5
+Secrets Of R For Advanced Students,New York,50,1
+Secrets Of R For Advanced Students,Texas,50,3
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R Made Easy,Florida,19.99,2
+Fundamentals of R For Beginners,New York,39.99,2
+R For Dummies,California,15.99,2
+R Made Easy,New York,19.99,3
+R Made Easy,California,19.99,4
+Secrets Of R For Advanced Students,Florida,50,5
+R For Dummies,Texas,15.99,4
+Secrets Of R For Advanced Students,Texas,50,5
+Fundamentals of R For Beginners,New York,39.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+Fundamentals of R For Beginners,Texas,39.99,5
+R For Dummies,California,15.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,3
+Fundamentals of R For Beginners,Florida,39.99,2
+R Made Easy,Texas,19.99,5
+R Made Easy,Florida,19.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,2
+R For Dummies,Texas,15.99,3
+Fundamentals of R For Beginners,New York,39.99,2
+Fundamentals of R For Beginners,Florida,39.99,5
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Fundamentals of R For Beginners,California,39.99,5
+Secrets Of R For Advanced Students,Florida,50,5
+Fundamentals of R For Beginners,California,39.99,5
+R For Dummies,Texas,15.99,4
+Secrets Of R For Advanced Students,California,50,3
+Fundamentals of R For Beginners,California,39.99,2
+R For Dummies,Texas,15.99,1
+Fundamentals of R For Beginners,California,39.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+R For Dummies,California,15.99,2
+R Made Easy,California,19.99,5
+Secrets Of R For Advanced Students,Florida,50,3
+Fundamentals of R For Beginners,California,39.99,2
+R Made Easy,California,19.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,2
+Secrets Of R For Advanced Students,Florida,50,5
+Secrets Of R For Advanced Students,New York,50,4
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R Made Easy,Florida,19.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Fundamentals of R For Beginners,Florida,39.99,3
+R For Dummies,New York,15.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Secrets Of R For Advanced Students,New York,50,5
+R Made Easy,Texas,19.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Secrets Of R For Advanced Students,Florida,50,2
+R For Dummies,California,15.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Fundamentals of R For Beginners,Texas,39.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R Made Easy,Florida,19.99,3
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,Texas,15.99,3
+R For Dummies,Florida,15.99,4
+R For Dummies,Texas,15.99,2
+Fundamentals of R For Beginners,Florida,39.99,3
+R For Dummies,Florida,15.99,5
+Secrets Of R For Advanced Students,Texas,50,1
+R Made Easy,New York,19.99,3
+R For Dummies,Florida,15.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Secrets Of R For Advanced Students,Florida,50,4
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Secrets Of R For Advanced Students,California,50,5
+Fundamentals of R For Beginners,New York,39.99,3
+Secrets Of R For Advanced Students,California,50,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+R For Dummies,New York,15.99,2
+Fundamentals of R For Beginners,Florida,39.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,Texas,19.99,4
+Secrets Of R For Advanced Students,Texas,50,3
+Fundamentals of R For Beginners,Texas,39.99,1
+Fundamentals of R For Beginners,Texas,39.99,3
+R Made Easy,Texas,19.99,3
+R For Dummies,New York,15.99,1
+R Made Easy,New York,19.99,3
+R For Dummies,Florida,15.99,4
+R For Dummies,Texas,15.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Secrets Of R For Advanced Students,California,50,2
+R For Dummies,Florida,15.99,1
+R Made Easy,Texas,19.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Fundamentals of R For Beginners,Texas,39.99,1
+Secrets Of R For Advanced Students,New York,50,2
+R Made Easy,Florida,19.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+R For Dummies,Texas,15.99,3
+R Made Easy,Florida,19.99,1
+R For Dummies,California,15.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R Made Easy,California,19.99,4
+R For Dummies,Texas,15.99,5
+Secrets Of R For Advanced Students,New York,50,5
+R Made Easy,California,19.99,4
+Fundamentals of R For Beginners,New York,39.99,4
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,California,50,5
+Top 10 Mistakes R Beginners Make,California,29.99,1
+R For Dummies,California,15.99,3
+R For Dummies,California,15.99,3
+Fundamentals of R For Beginners,Florida,39.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+R For Dummies,New York,15.99,1
+Secrets Of R For Advanced Students,New York,50,2
+R Made Easy,New York,19.99,2
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+R For Dummies,Texas,15.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+R Made Easy,California,19.99,4
+Fundamentals of R For Beginners,New York,39.99,3
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,Florida,19.99,3
+R Made Easy,California,19.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Secrets Of R For Advanced Students,California,50,5
+Fundamentals of R For Beginners,Texas,39.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Secrets Of R For Advanced Students,New York,50,4
+Fundamentals of R For Beginners,Texas,39.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Secrets Of R For Advanced Students,New York,50,5
+R Made Easy,New York,19.99,1
+Secrets Of R For Advanced Students,Florida,50,4
+Secrets Of R For Advanced Students,Florida,50,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Secrets Of R For Advanced Students,Texas,50,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+Secrets Of R For Advanced Students,Texas,50,4
+R Made Easy,Texas,19.99,1
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,Texas,39.99,4
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,Florida,50,3
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,California,19.99,4
+Secrets Of R For Advanced Students,California,50,2
+R For Dummies,New York,15.99,3
+Fundamentals of R For Beginners,Texas,39.99,4
+Secrets Of R For Advanced Students,Texas,50,5
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+R For Dummies,Texas,15.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Fundamentals of R For Beginners,California,39.99,5
+R Made Easy,California,19.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Secrets Of R For Advanced Students,California,50,2
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Fundamentals of R For Beginners,New York,39.99,4
+Fundamentals of R For Beginners,Texas,39.99,5
+R For Dummies,California,15.99,2
+R For Dummies,California,15.99,5
+Secrets Of R For Advanced Students,Florida,50,3
+R Made Easy,Texas,19.99,5
+R Made Easy,California,19.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Fundamentals of R For Beginners,California,39.99,5
+R For Dummies,New York,15.99,2
+Secrets Of R For Advanced Students,Texas,50,1
+R For Dummies,California,15.99,3
+R Made Easy,California,19.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Secrets Of R For Advanced Students,Florida,50,2
+R For Dummies,Florida,15.99,4
+Fundamentals of R For Beginners,New York,39.99,5
+Secrets Of R For Advanced Students,Texas,50,4
+Fundamentals of R For Beginners,Florida,39.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Secrets Of R For Advanced Students,Florida,50,1
+R For Dummies,Florida,15.99,1
+R Made Easy,Florida,19.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R For Dummies,New York,15.99,3
+Fundamentals of R For Beginners,Texas,39.99,5
+Secrets Of R For Advanced Students,Florida,50,1
+Secrets Of R For Advanced Students,New York,50,2
+R For Dummies,New York,15.99,1
+Fundamentals of R For Beginners,Florida,39.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R Made Easy,Texas,19.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Secrets Of R For Advanced Students,Texas,50,1
+R Made Easy,New York,19.99,2
+R Made Easy,Texas,19.99,1
+R For Dummies,California,15.99,4
+Fundamentals of R For Beginners,California,39.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Fundamentals of R For Beginners,New York,39.99,2
+Fundamentals of R For Beginners,Texas,39.99,1
+R For Dummies,New York,15.99,2
+R For Dummies,New York,15.99,2
+Fundamentals of R For Beginners,California,39.99,1
+Fundamentals of R For Beginners,Florida,39.99,2
+Secrets Of R For Advanced Students,California,50,5
+R For Dummies,California,15.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,California,19.99,4
+R For Dummies,New York,15.99,1
+R For Dummies,California,15.99,3
+R For Dummies,California,15.99,2
+Fundamentals of R For Beginners,New York,39.99,4
+Fundamentals of R For Beginners,New York,39.99,5
+Fundamentals of R For Beginners,New York,39.99,2
+Secrets Of R For Advanced Students,Florida,50,2
+R Made Easy,Texas,19.99,5
+R Made Easy,California,19.99,1
+R For Dummies,Texas,15.99,4
+Fundamentals of R For Beginners,California,39.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,2
+R Made Easy,Texas,19.99,2
+Fundamentals of R For Beginners,Florida,39.99,5
+R For Dummies,Florida,15.99,2
+Fundamentals of R For Beginners,New York,39.99,1
+Secrets Of R For Advanced Students,California,50,5
+R For Dummies,Texas,15.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R For Dummies,California,15.99,4
+R For Dummies,New York,15.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Secrets Of R For Advanced Students,New York,50,3
+R Made Easy,Florida,19.99,4
+Secrets Of R For Advanced Students,California,50,2
+R For Dummies,Florida,15.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,3
+Fundamentals of R For Beginners,New York,39.99,3
+Fundamentals of R For Beginners,Texas,39.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R Made Easy,New York,19.99,1
+R For Dummies,Texas,15.99,4
+R For Dummies,New York,15.99,2
+Secrets Of R For Advanced Students,California,50,1
+Top 10 Mistakes R Beginners Make,California,29.99,2
+Secrets Of R For Advanced Students,Texas,50,1
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,New York,50,5
+R Made Easy,New York,19.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+R Made Easy,Texas,19.99,2
+Secrets Of R For Advanced Students,California,50,4
+Top 10 Mistakes R Beginners Make,California,29.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,2
+R For Dummies,Texas,15.99,4
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,New York,39.99,3
+R For Dummies,New York,15.99,2
+R For Dummies,New York,15.99,2
+Fundamentals of R For Beginners,New York,39.99,5
+R Made Easy,New York,19.99,1
+Fundamentals of R For Beginners,California,39.99,1
+R For Dummies,California,15.99,4
+Secrets Of R For Advanced Students,Texas,50,3
+R For Dummies,Florida,15.99,2
+Fundamentals of R For Beginners,Florida,39.99,2
+R For Dummies,Texas,15.99,5
+R For Dummies,California,15.99,1
+R For Dummies,California,15.99,5
+Fundamentals of R For Beginners,California,39.99,4
+R Made Easy,California,19.99,2
+R For Dummies,California,15.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Fundamentals of R For Beginners,Florida,39.99,2
+Secrets Of R For Advanced Students,New York,50,4
+R For Dummies,California,15.99,3
+Secrets Of R For Advanced Students,Florida,50,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+R For Dummies,New York,15.99,1
+Secrets Of R For Advanced Students,New York,50,4
+R For Dummies,Florida,15.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Secrets Of R For Advanced Students,California,50,5
+R For Dummies,Texas,15.99,2
+R For Dummies,New York,15.99,2
+Fundamentals of R For Beginners,New York,39.99,5
+Secrets Of R For Advanced Students,Florida,50,1
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,New York,39.99,2
+Secrets Of R For Advanced Students,California,50,3
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Secrets Of R For Advanced Students,California,50,3
+R For Dummies,Texas,15.99,4
+R Made Easy,Florida,19.99,5
+Fundamentals of R For Beginners,Texas,39.99,1
+R Made Easy,New York,19.99,3
+R Made Easy,New York,19.99,3
+Fundamentals of R For Beginners,Texas,39.99,1
+R Made Easy,Texas,19.99,3
+Fundamentals of R For Beginners,New York,39.99,5
+R For Dummies,New York,15.99,5
+R For Dummies,Florida,15.99,4
+Fundamentals of R For Beginners,Texas,39.99,4
+R Made Easy,Texas,19.99,2
+R For Dummies,California,15.99,1
+R Made Easy,New York,19.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Secrets Of R For Advanced Students,Texas,50,2
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Fundamentals of R For Beginners,California,39.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,4
+R For Dummies,New York,15.99,1
+Fundamentals of R For Beginners,New York,39.99,1
+R Made Easy,California,19.99,5
+R For Dummies,New York,15.99,2
+R For Dummies,Texas,15.99,4
+Fundamentals of R For Beginners,California,39.99,3
+R Made Easy,Florida,19.99,2
+Fundamentals of R For Beginners,Texas,39.99,2
+Secrets Of R For Advanced Students,New York,50,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Fundamentals of R For Beginners,California,39.99,1
+Fundamentals of R For Beginners,California,39.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,2
+Secrets Of R For Advanced Students,New York,50,1
+R Made Easy,Florida,19.99,5
+R For Dummies,New York,15.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R For Dummies,Florida,15.99,3
+R Made Easy,Florida,19.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,New York,15.99,3
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,New York,39.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R For Dummies,Florida,15.99,1
+Secrets Of R For Advanced Students,New York,50,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,1
+R For Dummies,New York,15.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+R Made Easy,Florida,19.99,2
+Secrets Of R For Advanced Students,New York,50,5
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Fundamentals of R For Beginners,California,39.99,1
+Secrets Of R For Advanced Students,California,50,4
+Secrets Of R For Advanced Students,California,50,2
+Secrets Of R For Advanced Students,California,50,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Fundamentals of R For Beginners,Florida,39.99,1
+R Made Easy,Texas,19.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R For Dummies,California,15.99,3
+R Made Easy,Texas,19.99,4
+R For Dummies,Texas,15.99,2
+R Made Easy,Texas,19.99,3
+Secrets Of R For Advanced Students,Florida,50,4
+Fundamentals of R For Beginners,California,39.99,5
+Fundamentals of R For Beginners,Florida,39.99,2
+Secrets Of R For Advanced Students,California,50,2
+R Made Easy,Texas,19.99,4
+Fundamentals of R For Beginners,Texas,39.99,4
+Fundamentals of R For Beginners,California,39.99,5
+Secrets Of R For Advanced Students,Texas,50,1
+Fundamentals of R For Beginners,Florida,39.99,1
+Fundamentals of R For Beginners,New York,39.99,3
+R For Dummies,Florida,15.99,5
+R For Dummies,Florida,15.99,5
+Secrets Of R For Advanced Students,Texas,50,1
+R Made Easy,California,19.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Fundamentals of R For Beginners,Texas,39.99,5
+R Made Easy,Texas,19.99,1
+Secrets Of R For Advanced Students,California,50,3
+Secrets Of R For Advanced Students,Florida,50,2
+R Made Easy,California,19.99,3
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,California,19.99,4
+Fundamentals of R For Beginners,California,39.99,1
+Fundamentals of R For Beginners,Texas,39.99,2
+R Made Easy,Florida,19.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,4
+R Made Easy,New York,19.99,2
+Secrets Of R For Advanced Students,Florida,50,5
+R Made Easy,California,19.99,3
+Fundamentals of R For Beginners,California,39.99,4
+Secrets Of R For Advanced Students,California,50,1
+R For Dummies,Florida,15.99,1
+R For Dummies,California,15.99,1
+R For Dummies,California,15.99,5
+Secrets Of R For Advanced Students,Florida,50,5
+Fundamentals of R For Beginners,Texas,39.99,5
+Fundamentals of R For Beginners,California,39.99,1
+R For Dummies,Florida,15.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Fundamentals of R For Beginners,New York,39.99,5
+R For Dummies,California,15.99,5
+R Made Easy,New York,19.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,New York,50,2
+R Made Easy,Florida,19.99,5
+Secrets Of R For Advanced Students,Florida,50,5
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,Florida,50,4
+R For Dummies,New York,15.99,2
+R Made Easy,Florida,19.99,4
+Secrets Of R For Advanced Students,California,50,1
+Top 10 Mistakes R Beginners Make,California,29.99,2
+R For Dummies,New York,15.99,2
+R For Dummies,Florida,15.99,1
+R Made Easy,California,19.99,5
+Fundamentals of R For Beginners,Texas,39.99,2
+Secrets Of R For Advanced Students,New York,50,1
+Fundamentals of R For Beginners,California,39.99,3
+Fundamentals of R For Beginners,California,39.99,5
+Secrets Of R For Advanced Students,California,50,3
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Fundamentals of R For Beginners,Florida,39.99,3
+Fundamentals of R For Beginners,Florida,39.99,3
+Fundamentals of R For Beginners,Florida,39.99,1
+Fundamentals of R For Beginners,Texas,39.99,1
+Secrets Of R For Advanced Students,Texas,50,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+R Made Easy,Texas,19.99,3
+Fundamentals of R For Beginners,Florida,39.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R For Dummies,Texas,15.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Fundamentals of R For Beginners,Texas,39.99,2
+Secrets Of R For Advanced Students,New York,50,5
+Fundamentals of R For Beginners,Texas,39.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Fundamentals of R For Beginners,Texas,39.99,5
+R For Dummies,Florida,15.99,3
+R Made Easy,Texas,19.99,3
+Fundamentals of R For Beginners,Florida,39.99,5
+R Made Easy,Texas,19.99,2
+Secrets Of R For Advanced Students,Texas,50,1
+R For Dummies,California,15.99,5
+Fundamentals of R For Beginners,Florida,39.99,4
+R For Dummies,California,15.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Secrets Of R For Advanced Students,New York,50,3
+Secrets Of R For Advanced Students,New York,50,1
+R For Dummies,Florida,15.99,1
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,Texas,50,4
+R Made Easy,Florida,19.99,5
+R Made Easy,California,19.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R For Dummies,Texas,15.99,4
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R For Dummies,New York,15.99,2
+Fundamentals of R For Beginners,Texas,39.99,5
+R For Dummies,New York,15.99,1
+R For Dummies,Texas,15.99,3
+R For Dummies,Texas,15.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+R Made Easy,New York,19.99,5
+Secrets Of R For Advanced Students,Texas,50,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Fundamentals of R For Beginners,California,39.99,5
+R Made Easy,Texas,19.99,5
+R Made Easy,Texas,19.99,3
+Secrets Of R For Advanced Students,New York,50,4
+R For Dummies,Florida,15.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R For Dummies,New York,15.99,1
+R Made Easy,New York,19.99,5
+R Made Easy,Florida,19.99,4
+R For Dummies,Florida,15.99,4
+Secrets Of R For Advanced Students,Florida,50,2
+Secrets Of R For Advanced Students,Florida,50,2
+R Made Easy,Florida,19.99,3
+R For Dummies,New York,15.99,2
+R For Dummies,New York,15.99,1
+Fundamentals of R For Beginners,Texas,39.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Fundamentals of R For Beginners,New York,39.99,5
+Secrets Of R For Advanced Students,New York,50,1
+R For Dummies,Florida,15.99,3
+Secrets Of R For Advanced Students,Florida,50,4
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+R For Dummies,California,15.99,5
+R Made Easy,Texas,19.99,5
+Secrets Of R For Advanced Students,California,50,5
+Fundamentals of R For Beginners,New York,39.99,1
+Fundamentals of R For Beginners,Texas,39.99,2
+Secrets Of R For Advanced Students,California,50,4
+R Made Easy,New York,19.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+R Made Easy,California,19.99,2
+R For Dummies,California,15.99,3
+Secrets Of R For Advanced Students,Florida,50,3
+R Made Easy,New York,19.99,1
+R For Dummies,California,15.99,4
+Fundamentals of R For Beginners,Texas,39.99,1
+R For Dummies,Florida,15.99,5
+Fundamentals of R For Beginners,Florida,39.99,1
+R For Dummies,New York,15.99,5
+R Made Easy,California,19.99,5
+R Made Easy,New York,19.99,5
+R Made Easy,New York,19.99,2
+Secrets Of R For Advanced Students,California,50,2
+Fundamentals of R For Beginners,Florida,39.99,2
+Fundamentals of R For Beginners,Texas,39.99,3
+R For Dummies,New York,15.99,2
+R For Dummies,Texas,15.99,4
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,California,29.99,2
+R Made Easy,Texas,19.99,1
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,Texas,39.99,4
+R For Dummies,Florida,15.99,5
+R For Dummies,California,15.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,California,39.99,4
+R For Dummies,Texas,15.99,1
+Secrets Of R For Advanced Students,California,50,1
+R Made Easy,Florida,19.99,4
+R Made Easy,California,19.99,4
+R For Dummies,New York,15.99,5
+Fundamentals of R For Beginners,Texas,39.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+R For Dummies,California,15.99,1
+R For Dummies,California,15.99,2
+Secrets Of R For Advanced Students,Florida,50,4
+Secrets Of R For Advanced Students,Florida,50,1
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Fundamentals of R For Beginners,California,39.99,4
+Fundamentals of R For Beginners,Texas,39.99,5
+Secrets Of R For Advanced Students,Texas,50,1
+Secrets Of R For Advanced Students,New York,50,3
+Fundamentals of R For Beginners,Texas,39.99,4
+R For Dummies,New York,15.99,2
+Fundamentals of R For Beginners,New York,39.99,2
+R Made Easy,Florida,19.99,1
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,Texas,39.99,1
+R Made Easy,Texas,19.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Secrets Of R For Advanced Students,Texas,50,5
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R Made Easy,Florida,19.99,2
+R For Dummies,Florida,15.99,5
+R Made Easy,Florida,19.99,1
+R Made Easy,Texas,19.99,4
+Fundamentals of R For Beginners,New York,39.99,5
+Secrets Of R For Advanced Students,Texas,50,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Secrets Of R For Advanced Students,California,50,2
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+R For Dummies,Texas,15.99,1
+Secrets Of R For Advanced Students,California,50,2
+Secrets Of R For Advanced Students,Florida,50,5
+Fundamentals of R For Beginners,California,39.99,1
+Fundamentals of R For Beginners,Florida,39.99,4
+R Made Easy,New York,19.99,4
+Secrets Of R For Advanced Students,Texas,50,1
+R Made Easy,Texas,19.99,4
+R For Dummies,Florida,15.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+R Made Easy,Texas,19.99,3
+R For Dummies,Texas,15.99,2
+R For Dummies,New York,15.99,4
+Fundamentals of R For Beginners,Texas,39.99,3
+Secrets Of R For Advanced Students,Florida,50,1
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,Texas,50,3
+R Made Easy,New York,19.99,1
+Fundamentals of R For Beginners,California,39.99,5
+Fundamentals of R For Beginners,California,39.99,2
+Secrets Of R For Advanced Students,New York,50,5
+R For Dummies,Florida,15.99,5
+Secrets Of R For Advanced Students,New York,50,1
+R For Dummies,Texas,15.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R Made Easy,Texas,19.99,1
+R Made Easy,California,19.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Secrets Of R For Advanced Students,Florida,50,4
+Secrets Of R For Advanced Students,Texas,50,1
+R For Dummies,Texas,15.99,1
+Fundamentals of R For Beginners,New York,39.99,3
+R For Dummies,Florida,15.99,5
+R Made Easy,Texas,19.99,3
+R Made Easy,Florida,19.99,5
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,Florida,15.99,1
+R For Dummies,Texas,15.99,1
+R Made Easy,Florida,19.99,1
+Secrets Of R For Advanced Students,Texas,50,1
+R Made Easy,Florida,19.99,3
+Fundamentals of R For Beginners,Florida,39.99,3
+R For Dummies,Texas,15.99,2
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,California,50,3
+Secrets Of R For Advanced Students,Texas,50,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Secrets Of R For Advanced Students,Texas,50,3
+R For Dummies,New York,15.99,2
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,Florida,19.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R Made Easy,Texas,19.99,4
+R Made Easy,Florida,19.99,4
+Fundamentals of R For Beginners,California,39.99,5
+Fundamentals of R For Beginners,Florida,39.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+R Made Easy,New York,19.99,3
+Fundamentals of R For Beginners,Texas,39.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,4
+R Made Easy,Texas,19.99,4
+Secrets Of R For Advanced Students,New York,50,3
+Secrets Of R For Advanced Students,Florida,50,2
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Fundamentals of R For Beginners,California,39.99,3
+Secrets Of R For Advanced Students,New York,50,1
+Secrets Of R For Advanced Students,Texas,50,2
+R For Dummies,California,15.99,1
+R For Dummies,Texas,15.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+Fundamentals of R For Beginners,Texas,39.99,4
+Fundamentals of R For Beginners,New York,39.99,5
+Secrets Of R For Advanced Students,Texas,50,2
+R For Dummies,New York,15.99,3
+R For Dummies,California,15.99,3
+R For Dummies,California,15.99,2
+R Made Easy,California,19.99,5
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,New York,39.99,5
+Fundamentals of R For Beginners,California,39.99,2
+R For Dummies,Texas,15.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Fundamentals of R For Beginners,Texas,39.99,3
+Secrets Of R For Advanced Students,Texas,50,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Fundamentals of R For Beginners,Florida,39.99,3
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,Florida,50,2
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,Florida,39.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R Made Easy,Florida,19.99,4
+R Made Easy,New York,19.99,4
+Secrets Of R For Advanced Students,Florida,50,4
+R Made Easy,Florida,19.99,3
+Fundamentals of R For Beginners,Texas,39.99,3
+Secrets Of R For Advanced Students,New York,50,1
+Secrets Of R For Advanced Students,New York,50,1
+R Made Easy,California,19.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,1
+R Made Easy,Florida,19.99,5
+Fundamentals of R For Beginners,Florida,39.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R Made Easy,Texas,19.99,2
+Fundamentals of R For Beginners,California,39.99,5
+R For Dummies,New York,15.99,5
+Fundamentals of R For Beginners,Florida,39.99,4
+Fundamentals of R For Beginners,California,39.99,4
+Secrets Of R For Advanced Students,California,50,1
+Fundamentals of R For Beginners,California,39.99,2
+Fundamentals of R For Beginners,California,39.99,3
+Fundamentals of R For Beginners,Texas,39.99,5
+Fundamentals of R For Beginners,Texas,39.99,4
+Secrets Of R For Advanced Students,Texas,50,2
+R For Dummies,California,15.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Secrets Of R For Advanced Students,California,50,4
+Fundamentals of R For Beginners,California,39.99,2
+Fundamentals of R For Beginners,Florida,39.99,2
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+Fundamentals of R For Beginners,New York,39.99,2
+R For Dummies,California,15.99,1
+R For Dummies,Florida,15.99,1
+Secrets Of R For Advanced Students,Texas,50,5
+Fundamentals of R For Beginners,New York,39.99,3
+Fundamentals of R For Beginners,Texas,39.99,5
+Secrets Of R For Advanced Students,New York,50,2
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Fundamentals of R For Beginners,New York,39.99,1
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,New York,15.99,5
+R Made Easy,New York,19.99,5
+R For Dummies,California,15.99,4
+R Made Easy,California,19.99,1
+Fundamentals of R For Beginners,New York,39.99,2
+Secrets Of R For Advanced Students,Florida,50,3
+R For Dummies,California,15.99,1
+R For Dummies,California,15.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R For Dummies,Florida,15.99,3
+R Made Easy,Texas,19.99,3
+Fundamentals of R For Beginners,California,39.99,5
+Fundamentals of R For Beginners,California,39.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Fundamentals of R For Beginners,New York,39.99,2
+Fundamentals of R For Beginners,New York,39.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,California,50,5
+R For Dummies,California,15.99,3
+Secrets Of R For Advanced Students,Texas,50,3
+R For Dummies,California,15.99,4
+R For Dummies,New York,15.99,1
+Secrets Of R For Advanced Students,Texas,50,5
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Fundamentals of R For Beginners,Texas,39.99,5
+Fundamentals of R For Beginners,New York,39.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R Made Easy,New York,19.99,3
+Fundamentals of R For Beginners,Florida,39.99,1
+Fundamentals of R For Beginners,California,39.99,1
+R Made Easy,Florida,19.99,5
+Secrets Of R For Advanced Students,California,50,5
+R Made Easy,Florida,19.99,2
+R For Dummies,California,15.99,1
+Secrets Of R For Advanced Students,Texas,50,1
+R For Dummies,California,15.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Secrets Of R For Advanced Students,Florida,50,3
+R Made Easy,California,19.99,1
+R For Dummies,Texas,15.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R Made Easy,Texas,19.99,3
+R Made Easy,New York,19.99,4
+R Made Easy,New York,19.99,1
+Fundamentals of R For Beginners,Texas,39.99,2
+Secrets Of R For Advanced Students,Florida,50,5
+Fundamentals of R For Beginners,New York,39.99,2
+R Made Easy,California,19.99,4
+Fundamentals of R For Beginners,California,39.99,1
+R Made Easy,New York,19.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Fundamentals of R For Beginners,Texas,39.99,1
+R Made Easy,Florida,19.99,5
+R Made Easy,Florida,19.99,5
+Fundamentals of R For Beginners,California,39.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,1
+Secrets Of R For Advanced Students,New York,50,5
+Fundamentals of R For Beginners,California,39.99,2
+R For Dummies,Texas,15.99,3
+Fundamentals of R For Beginners,New York,39.99,2
+Secrets Of R For Advanced Students,Texas,50,2
+R Made Easy,Florida,19.99,4
+Fundamentals of R For Beginners,California,39.99,2
+Secrets Of R For Advanced Students,New York,50,2
+R Made Easy,New York,19.99,3
+Fundamentals of R For Beginners,New York,39.99,1
+R Made Easy,California,19.99,4
+Secrets Of R For Advanced Students,Florida,50,1
+R Made Easy,California,19.99,1
+R For Dummies,New York,15.99,2
+R For Dummies,Florida,15.99,3
+R Made Easy,Florida,19.99,4
+Fundamentals of R For Beginners,California,39.99,1
+Secrets Of R For Advanced Students,New York,50,3
+R For Dummies,New York,15.99,3
+Secrets Of R For Advanced Students,Florida,50,1
+R Made Easy,New York,19.99,1
+Secrets Of R For Advanced Students,California,50,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+Fundamentals of R For Beginners,Texas,39.99,4
+R For Dummies,California,15.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R Made Easy,Texas,19.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R Made Easy,Texas,19.99,2
+R Made Easy,Florida,19.99,1
+Secrets Of R For Advanced Students,Texas,50,2
+R Made Easy,New York,19.99,2
+Fundamentals of R For Beginners,New York,39.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Fundamentals of R For Beginners,California,39.99,2
+Fundamentals of R For Beginners,California,39.99,3
+R Made Easy,New York,19.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,Texas,19.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,1
+Secrets Of R For Advanced Students,Texas,50,4
+Secrets Of R For Advanced Students,Texas,50,4
+R Made Easy,Texas,19.99,1
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+R Made Easy,Texas,19.99,4
+R Made Easy,New York,19.99,3
+Secrets Of R For Advanced Students,New York,50,4
+Secrets Of R For Advanced Students,California,50,5
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R Made Easy,Texas,19.99,3
+Fundamentals of R For Beginners,New York,39.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+Secrets Of R For Advanced Students,California,50,4
+R For Dummies,New York,15.99,5
+Secrets Of R For Advanced Students,Texas,50,5
+R Made Easy,New York,19.99,5
+R Made Easy,California,19.99,3
+R Made Easy,Texas,19.99,2
+Fundamentals of R For Beginners,New York,39.99,2
+Secrets Of R For Advanced Students,Texas,50,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R Made Easy,New York,19.99,5
+R Made Easy,Florida,19.99,4
+R For Dummies,Texas,15.99,5
+R Made Easy,California,19.99,5
+R For Dummies,New York,15.99,5
+Secrets Of R For Advanced Students,New York,50,3
+R Made Easy,New York,19.99,3
+Secrets Of R For Advanced Students,Florida,50,1
+Fundamentals of R For Beginners,Texas,39.99,5
+R For Dummies,Florida,15.99,2
+Secrets Of R For Advanced Students,New York,50,2
+R For Dummies,California,15.99,4
+R Made Easy,Florida,19.99,3
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Secrets Of R For Advanced Students,New York,50,2
+R Made Easy,Texas,19.99,4
+Secrets Of R For Advanced Students,Texas,50,4
+Secrets Of R For Advanced Students,California,50,5
+Fundamentals of R For Beginners,California,39.99,2
+Fundamentals of R For Beginners,New York,39.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R Made Easy,New York,19.99,4
+Fundamentals of R For Beginners,New York,39.99,4
+R For Dummies,Texas,15.99,2
+Secrets Of R For Advanced Students,Texas,50,3
+Secrets Of R For Advanced Students,Texas,50,3
+R For Dummies,California,15.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+Fundamentals of R For Beginners,New York,39.99,1
+Secrets Of R For Advanced Students,Florida,50,5
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R For Dummies,New York,15.99,2
+R For Dummies,New York,15.99,3
+Secrets Of R For Advanced Students,New York,50,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,3
+R For Dummies,California,15.99,3
+Secrets Of R For Advanced Students,New York,50,1
+Secrets Of R For Advanced Students,California,50,1
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+R For Dummies,California,15.99,4
+R Made Easy,California,19.99,4
+Secrets Of R For Advanced Students,Texas,50,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R Made Easy,California,19.99,2
+Secrets Of R For Advanced Students,New York,50,1
+Top 10 Mistakes R Beginners Make,California,29.99,4
+Fundamentals of R For Beginners,Florida,39.99,2
+Secrets Of R For Advanced Students,California,50,5
+Fundamentals of R For Beginners,California,39.99,2
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R Made Easy,Florida,19.99,1
+R Made Easy,Florida,19.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+R For Dummies,California,15.99,3
+Secrets Of R For Advanced Students,Florida,50,3
+R Made Easy,Texas,19.99,1
+R For Dummies,Florida,15.99,3
+Fundamentals of R For Beginners,California,39.99,2
+R For Dummies,New York,15.99,1
+R Made Easy,California,19.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R Made Easy,Texas,19.99,5
+R For Dummies,Florida,15.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+Secrets Of R For Advanced Students,California,50,3
+Secrets Of R For Advanced Students,Texas,50,2
+Fundamentals of R For Beginners,Florida,39.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R Made Easy,Texas,19.99,3
+R For Dummies,Florida,15.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+R For Dummies,Florida,15.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+R For Dummies,New York,15.99,3
+R For Dummies,California,15.99,1
+Fundamentals of R For Beginners,California,39.99,4
+Secrets Of R For Advanced Students,Florida,50,1
+R Made Easy,New York,19.99,5
+Secrets Of R For Advanced Students,New York,50,2
+Fundamentals of R For Beginners,Texas,39.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+R For Dummies,California,15.99,4
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+R For Dummies,Florida,15.99,2
+Fundamentals of R For Beginners,New York,39.99,3
+Fundamentals of R For Beginners,Florida,39.99,5
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+Fundamentals of R For Beginners,Florida,39.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,5
+R Made Easy,Texas,19.99,4
+Secrets Of R For Advanced Students,California,50,2
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+R For Dummies,California,15.99,4
+Fundamentals of R For Beginners,Texas,39.99,4
+Fundamentals of R For Beginners,California,39.99,5
+Fundamentals of R For Beginners,California,39.99,5
+R Made Easy,Texas,19.99,1
+Secrets Of R For Advanced Students,Florida,50,4
+R For Dummies,Florida,15.99,1
+Secrets Of R For Advanced Students,California,50,4
+R For Dummies,California,15.99,2
+Secrets Of R For Advanced Students,New York,50,1
+R Made Easy,Florida,19.99,1
+R For Dummies,California,15.99,1
+R For Dummies,California,15.99,3
+Fundamentals of R For Beginners,Texas,39.99,4
+Fundamentals of R For Beginners,Texas,39.99,1
+R Made Easy,Florida,19.99,2
+R Made Easy,Florida,19.99,2
+Fundamentals of R For Beginners,Texas,39.99,2
+R For Dummies,California,15.99,1
+Fundamentals of R For Beginners,New York,39.99,5
+R Made Easy,Florida,19.99,3
+Fundamentals of R For Beginners,Florida,39.99,3
+Secrets Of R For Advanced Students,California,50,5
+R Made Easy,California,19.99,3
+Fundamentals of R For Beginners,California,39.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,3
+R For Dummies,California,15.99,1
+R Made Easy,Texas,19.99,5
+Secrets Of R For Advanced Students,Texas,50,3
+R Made Easy,California,19.99,4
+Fundamentals of R For Beginners,California,39.99,2
+R Made Easy,Texas,19.99,2
+Top 10 Mistakes R Beginners Make,New York,29.99,4
+R Made Easy,New York,19.99,4
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Top 10 Mistakes R Beginners Make,California,29.99,3
+Secrets Of R For Advanced Students,Florida,50,3
+Secrets Of R For Advanced Students,California,50,2
+R For Dummies,Texas,15.99,1
+Fundamentals of R For Beginners,New York,39.99,5
+Secrets Of R For Advanced Students,California,50,4
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+R Made Easy,California,19.99,4
+R For Dummies,Florida,15.99,5
+Secrets Of R For Advanced Students,New York,50,4
+R Made Easy,Florida,19.99,1
+Secrets Of R For Advanced Students,New York,50,5
+Fundamentals of R For Beginners,New York,39.99,3
+Top 10 Mistakes R Beginners Make,New York,29.99,1
+Fundamentals of R For Beginners,Texas,39.99,4
+R Made Easy,Texas,19.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+Fundamentals of R For Beginners,Texas,39.99,1
+Fundamentals of R For Beginners,California,39.99,1
+Fundamentals of R For Beginners,Florida,39.99,3
+Secrets Of R For Advanced Students,Texas,50,1
+Top 10 Mistakes R Beginners Make,California,29.99,5
+Fundamentals of R For Beginners,Florida,39.99,4
+Fundamentals of R For Beginners,Florida,39.99,3
+Secrets Of R For Advanced Students,California,50,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,2
+Secrets Of R For Advanced Students,Texas,50,2
+R For Dummies,New York,15.99,5
+Secrets Of R For Advanced Students,Florida,50,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+R Made Easy,New York,19.99,5
+R Made Easy,Texas,19.99,2
+Secrets Of R For Advanced Students,Florida,50,2
+R Made Easy,Florida,19.99,4
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R Made Easy,California,19.99,3
+R Made Easy,California,19.99,1
+R For Dummies,California,15.99,4
+R For Dummies,California,15.99,4
+Secrets Of R For Advanced Students,Florida,50,3
+R Made Easy,New York,19.99,4
+Fundamentals of R For Beginners,Florida,39.99,4
+R For Dummies,New York,15.99,4
+Secrets Of R For Advanced Students,New York,50,5
+R For Dummies,Florida,15.99,1
+R Made Easy,Florida,19.99,1
+R Made Easy,Texas,19.99,3
+R Made Easy,New York,19.99,3
+R For Dummies,Texas,15.99,3
+Top 10 Mistakes R Beginners Make,Florida,29.99,4
+R Made Easy,California,19.99,1
+Fundamentals of R For Beginners,New York,39.99,5
+Top 10 Mistakes R Beginners Make,Florida,29.99,5
+R Made Easy,Texas,19.99,1
+Top 10 Mistakes R Beginners Make,New York,29.99,5
+R For Dummies,California,15.99,2
+Fundamentals of R For Beginners,New York,39.99,3
+Secrets Of R For Advanced Students,California,50,3
+Top 10 Mistakes R Beginners Make,Texas,29.99,4
+Fundamentals of R For Beginners,Texas,39.99,1
+Top 10 Mistakes R Beginners Make,California,29.99,3
+R For Dummies,New York,15.99,5
+Fundamentals of R For Beginners,California,39.99,1
+Secrets Of R For Advanced Students,California,50,1
+R Made Easy,New York,19.99,1
+R Made Easy,Florida,19.99,3
+Fundamentals of R For Beginners,Florida,39.99,5
+R For Dummies,Texas,15.99,1
+R For Dummies,New York,15.99,4
+R Made Easy,New York,19.99,1
+Fundamentals of R For Beginners,New York,39.99,2
+R For Dummies,California,15.99,1
+Top 10 Mistakes R Beginners Make,Texas,29.99,3
+R For Dummies,California,15.99,4
+R Made Easy,California,19.99,2
+R For Dummies,Florida,15.99,5
+Top 10 Mistakes R Beginners Make,New York,29.99,2
+Top 10 Mistakes R Beginners Make,Texas,29.99,2
+Fundamentals of R For Beginners,Florida,39.99,2
+R For Dummies,Texas,15.99,1
+R Made Easy,Florida,19.99,4
+Secrets Of R For Advanced Students,New York,50,5
+Fundamentals of R For Beginners,Texas,39.99,4
+Top 10 Mistakes R Beginners Make,California,29.99,1
+Fundamentals of R For Beginners,California,39.99,3
