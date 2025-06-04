@@ -14,7 +14,7 @@ library(tidyverse)
 
 ```{r, results = "hide"}
 # load the data set
-data <- read_csv("C:/Users/kayon/Documents/R/Book Reviews Analysis/book_reviews.csv")
+data <- read_csv("book_reviews.csv")
 ```
 
 ```{r}
